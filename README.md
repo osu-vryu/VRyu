@@ -1,7 +1,7 @@
 # VRyu
 
 ## What is VRyu?
-VRyu is a new VR game focused on the learnings, practice, and training of martial arts and the Samurai. This project is currently being developed by students at Oregon State University for their final Senior Capstone Project. 
+VRyu is a new VR game focused on the learnings, practice, and training of martial arts and the Samurai. This game is currently being developed by Oregon State University students for their Senior Software Engineering Project. 
 
 ## Team Roster 
 
