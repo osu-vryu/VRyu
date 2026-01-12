@@ -6,7 +6,6 @@ VRyu is a new VR game focused on the learnings, practice, and training of martia
 ## Team Roster 
 
 ### Team 1 
-- Annette Tongsak   - email: tongsaan@oregonstate.edu 
 - Cade Wisecaver    - email: wisecavc@oregonstate.edu
 - Dennis Aguilar    - email: aguilade@oregonstate.edu
 - Dylan Keyhantaj   - email: keyhantd@oregonstate.edu
