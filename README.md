@@ -9,10 +9,8 @@ VRyu is a new VR game focused on the learnings, practice, and training of martia
 - Cade Wisecaver    - email: wisecavc@oregonstate.edu
 - Dennis Aguilar    - email: aguilade@oregonstate.edu
 - Reed Evertt       - email: everttr@oregonstate.edu
-- Andy Li           - email: lishen@oregonstate.edu
 - Sunil Jain        - email: jainsu@oregonstate.edu
 
 ### Technical Art  
 - Dylan Keyhantaj   - email: keyhantd@oregonstate.edu
 - Téa Kidder        - email: kiddert@oregonstate.edu
-
