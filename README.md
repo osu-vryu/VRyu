@@ -11,8 +11,6 @@
 - Website & Demo Video: <a href="https://osu-vryu.github.io/">osu-vryu.github.io</a>
 
 ## The Problem: An Accesible and Engaging Entry-Point
-The Japanese sword arts, Kenjutsu, can be a difficult practice to enter due to a lack of approachable entry points for beginners. Additionally, for those already actively training in the martial art, consistent physical practice can often be limited by constraints such as dojo availability, the high cost and logistical challenge of constantly sourcing physical cutting targets (like bamboo or tatami), and the inherent safety risks of solo training with live blades or heavy bokken outside a supervised environment.
-
 The Japanese sword arts, Kenjutsu, can suffer from a lack of approachability for both beginners trying to enter the practice and active students looking to maintain their training. This barrier to approachability stems from shared hurdles: traditional instruction requires consistent access to specialized training spaces, a possible higher cost, frequent sourcing of physical cutting targets (like bamboo), and the inherent safety risks of unguided solo practice outside a supervised dojo.
 
 ## The Solution: VRyu
