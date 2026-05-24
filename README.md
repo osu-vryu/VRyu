@@ -2,7 +2,7 @@
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/1418c327-0a98-4334-ad28-32e0ae4343d1" />
 
 ## What is VRyu?
-- VRyu is a virtual reality training game focused on teaching the practice, fundamentals, and traditional techniques of Kenjutsu, the Japanese art of the sword. The project is developed by an 6-member team of Computer Science seniors at Oregon State University as their Capstone Software Engineering Project, with a final release scheduled for June 2026.
+VRyu is a virtual reality training game focused on teaching the practice, fundamentals, and traditional techniques of Kenjutsu, the Japanese art of the sword. The project is developed by an 6-member team of Computer Science seniors at Oregon State University as their Capstone Software Engineering Project, with a final release scheduled for June 2026.
 
 - Engine: Unreal Engine (Blueprints)
 - 3D Assets: Blender (Custom models / PBR texturing)
