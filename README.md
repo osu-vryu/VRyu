@@ -24,14 +24,6 @@ VRyu serves as a direct answer to these challenges by removing the physical and 
 
 ## Team Roster 
 
-### Technical Art 
-- Dylan Keyhantaj
-  - 3D Assets, Scene Staging, Game Design, Team Leadership, Programming.
-  - Contact: dylan.keyhantaj@gmail.com | <a href="https://linkedin.com/in/dylan-keyhantaj">LinkedIn</a>
-- Téa Kidder
-  - 3D Assets, 2D Art, Enemy System, Scene Staging, Programming.
-  - Contact: teakidder@gmail.com
-
 ### Game Development 
 - Cade Wisecaver
   - Player Movement, Sound System
@@ -45,3 +37,11 @@ VRyu serves as a direct answer to these challenges by removing the physical and 
 - Sunil Jain
   - Game Design, Cutting, Scoring, Kenjutsu Researcher
   - Contact: suniljain0504@gmail.com
+
+### Technical Art 
+- Dylan Keyhantaj
+  - 3D Assets, Scene Staging, Game Design, Team Leadership, Programming.
+  - Contact: dylan.keyhantaj@gmail.com | <a href="https://linkedin.com/in/dylan-keyhantaj">LinkedIn</a>
+- Téa Kidder
+  - 3D Assets, 2D Art, Enemy System, Scene Staging, Programming.
+  - Contact: teakidder@gmail.com
