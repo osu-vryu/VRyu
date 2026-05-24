@@ -44,4 +44,4 @@ Post about it in Discord channels, bring it up in Dev Team Weekly meetings, meet
 
 Where to ask for help (the team channel or point of contact).
 
-Our Discord: https://discord.gg/qvXf9TND
+Our team member's emails are listed in the [README](https://github.com/osu-vryu/VRyu/blob/main/README.md) on this repo
