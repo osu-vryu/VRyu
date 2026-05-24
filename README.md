@@ -19,7 +19,7 @@ VRyu serves as a direct answer to these challenges by removing the physical and 
 ### Core Systems & Features
 - The "Cut" Mechanic: Built around the central slicing verb, "cut". Utilizing polymorphic programming to generalize interactions, players practice precision cutting on bamboo, flying watermelons, and reactive wooden humanoid opponents.
 - Authentic Aesthetics: Features a handcrafted dojo inspired by authentic Japanese iconography, complete with calligraphic scrolls, a meditative tea room, and an assortment of stylized, equipable katanas.
-- Focus & Attention Tracking: Leverages VR tracking to translate player attention and intent into accurate in-game sword interactions, ensuring gameplay centers on bettering the real-world Kenjutsu skills of parrying and slicing. 
+- Focus & Intent Tracking: Leverages VR tracking to translate player attention and intent into accurate in-game sword interactions, ensuring gameplay centers on bettering the real-world Kenjutsu skills of parrying and slicing. 
 - Technical Implementation: Developed in Unreal Engine using Blueprints for core gameplay systems. 3D assets were modeled and textured in Blender, utilizing a mix of free-to-use PBR and custom textures.
 
 ## Team Roster 
