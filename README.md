@@ -11,16 +11,16 @@ VRyu is a virtual reality training game focused on teaching the practice, fundam
 - Target Hardware: Meta Quest (2, 3, 3S)
 
 ## The Problem
-The Japanese sword arts, kenjutsu, can suffer from a lack of accessibility for both beginners trying to enter the practice and active students looking to maintain their training. This barrier to approachability stems from shared hurdles: traditional instruction requires consistent access to specialized training spaces, a possible higher cost, frequent sourcing of physical cutting targets, and the inherent safety risks of unguided solo practice outside a supervised dojo.
+The Japanese sword arts, kenjutsu, can suffer from a lack of accessibility for both beginners trying to enter the practice and active students looking to maintain their training. These barriers to approachability stem from shared hurdles: traditional instruction requires consistent access to specialized training spaces, a high cost of entry, frequent sourcing of physical cutting targets, and the inherent safety risks of unguided solo practice outside a supervised dojo.
 
 ## The Solution
-VRyu serves as a direct answer to these challenges by removing the physical and financial friction of traditional training.  It acts as a fun, gamified introduction to the field for beginners, while simultaneously providing a highly accessible opportunity for more practice for those already training. Through tightly designed gameplay and authentic, custom visuals, the project aims to spark curiosity for newcomers while serving as a safe, repeatable, and low-cost environment for active students to practice.
+VRyu removes these physical and financial barriers in typical training. It acts as a fun, gamified introduction for beginners while simultaneously providing a highly accessible opportunity for more practice for those already familiar. Through tightly designed gameplay, and authentic visuals, and a custom controller peripheral, the project aims to spark curiosity for newcomers while serving as a safe and low-cost environment for active students to continue practice.
 
 ### Core Features
-- The "Cut" Mechanic: Built around the central slicing verb, "cut". Utilizing polymorphic programming to generalize interactions, players practice precision cutting on bamboo, flying watermelons, and reactive mannequin-like opponents.
-- Authentic Aesthetics: Features a handcrafted dojo inspired by authentic Japanese iconography, complete with calligraphic scrolls, a meditative tea room, and an assortment of bespoke, equipable katanas.
-- Training & Teaching: Leverages VR tracking to translate player attention and intent into accurate in-game sword interactions, ensuring gameplay centers on bettering the real-world kenjutsu skills of parrying and slicing.
-- Controller Peripheral: A custom designed 3D-printed attachment for Meta Quest 3 controllers, made by a collaborating mechanical engineering team. It emulates the experience of wielding the size and heft of a real katana, adding to the immersion and training capabilities of the game.
+- **The "Cut" Mechanic**: Built around the central slicing verb, "cut". Utilizing polymorphic programming to generalize interactions, players practice precision cutting on bamboo, flying watermelons, and reactive mannequin-like opponents.
+- **Authentic Aesthetics**: Features a handcrafted dojo inspired by authentic Japanese iconography, complete with calligraphic scrolls, a meditative tea room, and an assortment of bespoke, equipable katanas.
+- **Training & Teaching**: Leverages VR tracking to translate player attention and intent into accurate in-game sword interactions, ensuring gameplay centers on bettering the real-world kenjutsu skills of parrying and slicing.
+- **Controller Peripheral**: A custom designed 3D-printed attachment for Meta Quest 3 controllers, made by a collaborating mechanical engineering team. It emulates the experience of wielding the size and heft of a real katana, adding to the immersion and training capabilities of the game.
 
 ## Team Roster (Software)
 ### Game Development
