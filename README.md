@@ -5,6 +5,7 @@
 VRyu is a virtual reality training game focused on teaching the practice, fundamentals, and traditional techniques of kenjutsu, the Japanese sword arts. The project is developed as a collaboration between a team of Computer Science and Mechanical Engineering seniors at Oregon State University as their capstone engineering project, with was released publicly on June 5th, 2026.
 
 ### Links
+- Downloads: [release 1.0](https://github.com/osu-vryu/VRyu/releases/tag/v1.0)
 - Website: [osu-vryu.github.io](https://osu-vryu.github.io/)
 - Itch.io Page: [vryu.itch.io/vryu](https://vryu.itch.io/vryu)
 ### Tools
